@@ -1,0 +1,6 @@
+# Per-client send intervals (seconds)
+# Format: CLIENT_ID=SECONDS  (or CLIENT_ID:SECONDS)
+
+CAR_101=1.0
+CAR_202=2.0
+CAR_EMPTY=0.5

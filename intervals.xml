@@ -1,0 +1,5 @@
+<clients>
+  <client id="CAR_101" interval="1.0" />
+  <client id="CAR_202" interval="2.0" />
+  <client id="CAR_EMPTY" interval="0.5" />
+</clients>
